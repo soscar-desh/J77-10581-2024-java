@@ -2,7 +2,7 @@
 /*
 *Name: Sheryl Mwende Oscar
 *Reg No: J77-10581-2024
-*Description: 
+*Description: the program helps to compute book details in a library 
 */
 import java.util.Scanner
 
@@ -51,6 +51,7 @@ import java.util.Scanner
             System.out.println("Your days overdue is"+overdue);
             System.out.println(" ");
             System.out.println("");
+
 
 
 

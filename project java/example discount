@@ -2,7 +2,7 @@
 /*
 *Name: Sheryl Mwende Oscar
 *Reg No: J77-10581-2024
-*Description: 
+*Description: the program helps to calculate discounts to be given to users 
 */
 
 import java.util.Scanner;
@@ -34,4 +34,5 @@ public class Discount {
         System.out.println("Amount to Pay: " + amountToPay);
 
         scanner.close();
+
     }

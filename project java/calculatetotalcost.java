@@ -1,3 +1,9 @@
+// Program to compute total cost
+/*
+*Name: Sheryl Mwende Oscar
+*Reg No: J77-10581-2024
+*Description: the program helps to calculate total cost used on a vacation 
+*/
 import java.util.Scanner;
 public class calculatetotalcost {
     public static double calculatetotalcost(double accomodationcost, double mealcost, double activitycost){
@@ -25,3 +31,4 @@ public class calculatetotalcost {
   }
 
 }
+

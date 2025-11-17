@@ -1,3 +1,9 @@
+// Program for a fitness app tracker 
+/*
+*Name: Sheryl Mwende Oscar
+*Reg No: J77-10581-2024
+*Description: it helps users to track their fitness level 
+*/
 import java.util.Scanner;
 public class fitnessapp {
     public static String getfitnesslevel(int steps) {
@@ -23,3 +29,4 @@ public class fitnessapp {
         System.out.println("your fitness level: "+ totalsteps);
     }
 }
+
